@@ -1,11 +1,12 @@
-**Getting Started with Amazon EKS using Terraform**
+# Getting Started with Amazon EKS using Terraform**
 More resources:
 
 Terraform provider for AWS here
 
-Login to Amazon
-# Access your "My Security Credentials" section in your profile. 
-# Create an access key
+# Login to Amazon
+
+Access your "My Security Credentials" section in your profile. 
+Create an access key
 
 aws configure
 
