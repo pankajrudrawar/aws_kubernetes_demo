@@ -24,8 +24,11 @@ terraform
 # Terraform Actions
 
 terraform init
+
 terraform plan
+
 terraform apply
 
 Clean up
+
 terraform destroy
