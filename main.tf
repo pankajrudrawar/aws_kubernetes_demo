@@ -1,7 +1,7 @@
 provider "aws" {
   region = var.aws_region
-  access_key = "AKIA4RBXIIWMWKC6G67M"
-  secret_key = "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"
+  access_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+  secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
   max_retries = 1
 
    public_subnet_tags = {
@@ -473,7 +473,7 @@ resource "aws_autoscaling_group" "terra-bastion" {
 
 resource "aws_key_pair" "test_key" {
   key_name = "key_name"
-  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDH7Phjjy36boN0LOKl5Fnmw8VDM16VX1i2qYqKT4a2syGwHmqIosbf5cU2rHi8VSGmWOBohbDKuw+yI6ldJilaAGz0D4JUv3dNMsGg7A0JMxe9nL6Y4t5HnLTxTn8eF9ttAP3PDrTh+IYOQjZ1w2FUKsPVGNg3tgrnpVXZ2Gttc5bXiJVVeTxSxVIT7numi6EnSbr1oQY9npmW5GQBSZcoFYqOgyJdPdeyWsm3dNM+eDmuy6H+EI52wFJSiQPKD+PkSa0S1TPK4Sfmlyj2QyBB/aWnBEpvJytv9TTk0SIDVuqlbUZwEv60U1rG9RGDPpXWhIlYekz5mXF9EooYsYcT pankaj@DESKTOP-AB5856C"
+  public_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
 }
 
 ##### EC2 Web App Instance Creation #####
